@@ -1,0 +1,106 @@
+a5380ee
+General questions
+
+2efcde9
+Which of the following is a subfield of AI?
+option: Robotics
+option: Natural Language Processing
+option: Computer Vision
+option dabfac4: All of the above
+option: None of the above
+
+b94d27b
+AI systems can learn from data.
+option dabfac4: True
+option: False
+
+2efcde9
+Which of the following is NOT a type of AI?
+option: Reactive machines
+option: Limited memory
+option: Theory of mind
+option dabfac4: Quantum computing
+
+a5380ee
+Machine Learning
+
+2efcde9
+What is the goal of supervised learning?
+option: To group unsorted information
+option: To find patterns in unstructured data
+option dabfac4: To map input to output based on a set of labeled examples
+option: To optimize a function by iteratively adjusting its parameters
+
+2efcde9
+Which of the following is NOT a common supervised learning algorithm?
+option: Decision Trees
+option: K-Nearest Neighbors
+option: Support Vector Machines
+option dabfac4: Reinforcement Learning
+
+b94d27b
+Deep learning is a type of machine learning.
+option dabfac4: True
+option: False
+
+a5380ee
+Neural Networks
+
+2efcde9
+What is a neural network?
+option: A network of connected neurons
+option: A computer program that simulates the behavior of the human brain
+option dabfac4: A computational model inspired by the structure and function of the brain
+option: A type of computer memory
+
+2efcde9
+Which of the following is a type of neural network?
+option dabfac4: Convolutional neural network
+option: Decision tree neural network
+option: Random forest neural network
+option: None of the above
+
+b94d27b
+Neural networks are only used in image recognition tasks.
+option: True
+option dabfac4: False
+
+a5380ee
+Natural Language Processing
+
+2efcde9
+What is Natural Language Processing?
+option: A type of speech therapy
+option: A type of language teaching software
+option dabfac4: A branch of AI that deals with the interaction between computers and humans in natural language
+option: A type of language translation software
+
+2efcde9
+Which of the following is NOT a common NLP task?
+option: Sentiment Analysis
+option: Named Entity Recognition
+option dabfac4: Image Recognition
+option: Part-of-Speech Tagging
+
+b94d27b
+NLP can be used to generate human-like text.
+option dabfac4: True
+option: False
+
+a5380ee
+Reinforcement Learning
+
+2efcde9
+What is Reinforcement Learning?
+option: A type of machine learning where labeled examples are used to train a model
+option: A type of unsupervised learning where the algorithm attempts to find patterns in unstructured data
+option dabfac4: A type of machine learning where an agent learns to make decisions in an environment by maximizing a reward signal
+option: A type of supervised learning where the goal is to optimize a function by iteratively adjusting its parameters
+
+2efcde9
+Which of the following is NOT a component of a Reinforcement Learning system?
+option dabfac4: Labeled examples
+option: Agent
+option: Environment
+option: Reward signal
+

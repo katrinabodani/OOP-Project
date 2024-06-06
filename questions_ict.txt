@@ -1,0 +1,78 @@
+a5380ee
+General questions
+
+2efcde9
+Which of the following is NOT an operating system?
+option: Windows
+option: MacOS
+option dabfac4: Microsoft Office
+option: Linux
+
+b94d27b
+Which of the following is NOT a programming language?
+option dabfac4: Photoshop
+option: Python
+option: C++
+option: Java
+
+2efcde9
+What is the binary equivalent of the decimal number 13?
+option: 1001
+option: 1010
+option: 1011
+option dabfac4: 1101
+
+88f7ace
+Explain the concept of abstraction in computing.
+
+b94d27b
+In computing, what is a byte?
+option dabfac4: A unit of digital information that most commonly consists of eight bits.
+option: A type of computer virus.
+option: A unit of measurement used for computer memory.
+option: A device used for computer input.
+
+2efcde9
+What is the purpose of a compiler?
+option: To execute programs.
+option: To translate high-level programming language code into machine code.
+option: To create graphical user interfaces.
+option dabfac4: To debug programs.
+
+2efcde9
+Who invented the World Wide Web (WWW)?
+option dabfac4: Tim Berners-Lee
+option: Bill Gates
+option: Steve Jobs
+option: Mark Zuckerberg
+
+a5380ee
+Programming basics
+
+2efcde9
+What is the output of the following code snippet?
+int num = 5;
+num++;
+cout << num;
+option: 5
+option dabfac4: 6
+option: 7
+option: None of the above
+
+2efcde9
+What is the difference between a variable and a constant in programming?
+option: A variable can be changed during program execution, while a constant cannot.
+option: A constant can be changed during program execution, while a variable cannot.
+option: A variable and a constant are the same thing.
+option dabfac4: None of the above.
+
+b94d27b
+What is a syntax error in programming?
+option: An error caused by incorrect logic in the program.
+option: An error caused by a hardware malfunction.
+option: An error caused by the user.
+option dabfac4: An error caused by incorrect code in the program.
+
+88f7ace
+Explain the concept of control structures in programming.
+

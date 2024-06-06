@@ -1,0 +1,89 @@
+a5380ee
+Object Oriented Programming
+
+2efcde9
+Which of the following is NOT a characteristic of object-oriented programming?
+option: Inheritance
+option: Polymorphism
+option: Abstraction
+option dabfac4: Concurrency
+
+b94d27b
+In C++, a derived class can have multiple base classes.
+option dabfac4: True
+option: False
+
+2efcde9
+Which of the following is a feature of encapsulation?
+option dabfac4: Data hiding
+option: Public access
+option: Global scope
+option: Dynamic binding
+
+2efcde9
+What is inheritance in object-oriented programming?
+option: Creating a new object from an existing object
+option: Combining two or more objects into one
+option: Allowing multiple objects to access the same data
+option dabfac4: Creating a new class from an existing class
+
+b94d27b
+In C++, the destructor is called explicitly to destroy an object.
+option: True
+option dabfac4: False
+
+a5380ee
+Programming Pointers
+
+2efcde9
+What is a pointer in C++?
+option: A type of variable that can store multiple values
+option: A function that returns a value
+option dabfac4: A variable that stores the memory address of another variable
+option: A keyword that specifies a storage class
+
+b94d27b
+In C++, the indirection operator is denoted by:
+option: $
+option: *
+option dabfac4: &
+option: !
+
+2efcde9
+What is the difference between a pointer and a reference in C++?
+option: Pointers cannot be used to call member functions, while references can
+option: References cannot be reassigned to refer to a different object, while pointers can
+option dabfac4: Pointers store the memory address of a variable, while references refer directly to a variable
+option: References can only be used with built-in data types, while pointers can be used with any data type
+
+2efcde9
+What does the null pointer in C++ point to?
+option: The end of the memory allocated for the program
+option: The beginning of the memory allocated for the program
+option dabfac4: Nowhere, it represents a pointer that does not point to any memory address
+option: The last memory address used by the program
+
+a5380ee
+General questions
+
+b94d27b
+What is an object in object-oriented programming?
+option: A function that returns a value
+option: A keyword that specifies a storage class
+option dabfac4: An instance of a class
+option: A type of variable that can store multiple values
+
+2efcde9
+What is polymorphism in object-oriented programming?
+option: The ability of a class to inherit from multiple base classes
+option dabfac4: The ability of an object to take on many forms
+option: The ability of a class to hide its internal implementation details
+option: The ability to pass arguments by reference in a function call
+
+b94d27b
+In object-oriented programming, what is a constructor?
+option dabfac4: A special method that is called when an object is created to initialize its member variables
+option: A method that is called to destroy an object
+option: A method that is called to copy an object
+option: A method that is used to access private member variables
+

@@ -1,0 +1,11 @@
+Hassan Raza hsn_r Object Oriented Programming
+Ayesha Kamran aysh_k Programming Fundamentals
+Maryam Nawaz mrm_n Introduction To Computing
+Shehryar Rashid shr_r Data Structures
+Asif Naeem asf_n Analysis of Algorithms
+Sehrish Hassan sehrish_h Software Requirements Engineering
+Maryam Abid mrm_a Research Methodology
+Hammad Majeed hmd_m Big Data Analytics
+Omer Beg omr_b Artificial Intelligence
+Omer Ishaq omr_i Deep Learning
+Humayyoun Saeed hmn_s Digital Image Processing
